@@ -1,0 +1,2 @@
+lol
+1011 1001 in twos complement is 0100 0111
